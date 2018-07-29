@@ -1,1 +1,2 @@
-[config] project = ContinuousWeb/ContinuousWeb.csproj
+[config] 
+project = ContinuousWeb/ContinuousWeb.csproj
